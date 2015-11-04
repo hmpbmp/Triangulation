@@ -1,5 +1,5 @@
 # Triangulation
-Basic triangulation using otektomy algorithm (ear clipping) for comp. geometry lectures
+Basic triangulation using otectomy algorithm (ear clipping) for comp. geometry lectures
 
 For execution call from command line:
 ```
